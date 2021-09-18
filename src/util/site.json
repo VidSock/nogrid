@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "iconimage": "/assets/vidsock-logo.svg",
+    "companyname": "Crude Addiction",
+    "siteUrl": "https://crude-addiction.netlify.app/",
+    "twitterUsername": "crudeaddiction",
+    "siteTitleDefault": "VidSock",
+    "siteTitle": "VidSock",
+    "titleTemplate": "%s",
+    "twitter": "vidsocks",
+    "siteImage": "/default-og-image.jpg",
+    "siteDescription": "VidSock - no waiting, do it now",
+    "title": "Crude Addiction",
+    "hrefLang": "en",
+    "image": "/assets/default-og-image.jpg",
+    "description": "It's always a Crude Addiction"
+  },
+  "ga": "UA-49869143-1"
+}
